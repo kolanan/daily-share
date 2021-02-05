@@ -1,0 +1,1315 @@
+#191001 18:16:28 server id 1  end_log_pos 44809323 CRC32 0x79ea664c 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=951541 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10919 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900464' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-01 17:39:36' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:10:54' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:01' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=951541 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10919 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900464' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-01 18:16:28' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:47:46' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:01' /* DATE meta=0 nullable=0 is_null=0 */
+# at 44809323
+
+--
+#191007 17:01:58 server id 1  end_log_pos 152626481 CRC32 0xd2894750 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=952113 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10433 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900805' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-07 16:50:32' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:39:53' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:07' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=952113 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10433 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900805' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-07 17:01:58' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:51:19' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:07' /* DATE meta=0 nullable=0 is_null=0 */
+# at 152626481
+--
+#191013 15:14:38 server id 1  end_log_pos 285603799 CRC32 0x3c88c1a4 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=964813 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10747 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900409' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 12:34:07' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='00:17:55' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=964813 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10747 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900409' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 15:14:37' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:58:25' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 285603799
+--
+#191013 17:13:44 server id 1  end_log_pos 287136552 CRC32 0xde01a09b 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=964813 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10747 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900409' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 15:14:37' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:58:25' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=964813 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10747 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900409' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 17:13:44' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='04:57:32' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 287136552
+--
+#191013 18:19:50 server id 1  end_log_pos 288014141 CRC32 0xa392472a 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=964805 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85563 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903387' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 12:13:58' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:07:03' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=964805 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85563 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903387' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 18:19:49' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:12:54' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 288014141
+--
+#191013 22:02:25 server id 1  end_log_pos 290838658 CRC32 0x0577c712 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=964829 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=77179 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902639' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 15:52:35' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060520' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:08:37' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=964829 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=77179 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902639' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-13 22:02:25' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:18:27' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 290838658
+--
+#191019 18:41:29 server id 1  end_log_pos 435783527 CRC32 0xc7ea38e4 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=977987 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69945 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901511' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 17:11:26' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:48:21' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=977987 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69945 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901511' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 18:41:29' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='10:18:24' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+# at 435783527
+--
+#191019 19:21:00 server id 1  end_log_pos 436283233 CRC32 0x9b544ebb 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=977981 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10313 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901289' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 16:08:19' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:00:09' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=977981 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10313 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901289' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 19:20:59' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:12:49' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+# at 436283233
+--
+#191019 19:21:18 server id 1  end_log_pos 436288248 CRC32 0x116f44a4 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=977997 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=76169 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902594' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 18:05:23' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:01:59' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=977997 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=76169 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902594' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-19 19:21:18' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:17:54' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:19' /* DATE meta=0 nullable=0 is_null=0 */
+# at 436288248
+--
+#191020 23:04:46 server id 1  end_log_pos 457382903 CRC32 0xfa177fe2 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 21:38:40' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060499' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='11:51:45' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 23:04:46' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060499' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='13:17:51' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+# at 457382903
+--
+#191020 23:38:54 server id 1  end_log_pos 457814808 CRC32 0x91b28767 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 23:04:46' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060499' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='13:17:51' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 23:38:54' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060499' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='13:51:59' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+# at 457814808
+--
+#191020 23:49:29 server id 1  end_log_pos 457947101 CRC32 0xcdec0980 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 23:38:54' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060499' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='13:51:59' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=978455 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10871 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901383' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2019-10-20 23:49:29' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='14:02:34' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2019:10:20' /* DATE meta=0 nullable=0 is_null=0 */
+# at 457947101
+
+
+#200606 15:57:52 server id 1  end_log_pos 141755817 CRC32 0x4f1dce10 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 14:34:52' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:39:38' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 15:57:52' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:02:38' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+# at 141755817
+--
+#200606 16:49:06 server id 1  end_log_pos 147417080 CRC32 0x0f06c507 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 15:57:52' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:02:38' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 16:49:06' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:53:52' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+# at 147417080
+--
+#200606 17:09:46 server id 1  end_log_pos 149457991 CRC32 0x631c1884 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 16:49:06' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:53:52' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2261191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-06 17:09:46' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:14:32' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:06' /* DATE meta=0 nullable=0 is_null=0 */
+# at 149457991
+--
+#200607 17:14:43 server id 1  end_log_pos 171785492 CRC32 0x3a2d62d1 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2261899 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-07 12:55:05' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:42:13' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:07' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2261899 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10719 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900671' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-07 17:14:43' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:01:51' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:07' /* DATE meta=0 nullable=0 is_null=0 */
+# at 171785492
+
+#200613 18:23:06 server id 1  end_log_pos 358672109 CRC32 0x3cb8a599 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2310193 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10663 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901215' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-13 16:48:36' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:36:16' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2310193 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10663 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901215' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-13 18:23:05' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:10:45' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 358672109
+
+
+#200613 18:23:06 server id 1  end_log_pos 358672109 CRC32 0x3cb8a599 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2310193 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10663 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901215' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-13 16:48:36' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:36:16' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:13' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2310193 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10663 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901215' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-06-13 18:23:05' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:10:45' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:06:13' /* DATE meta=0 nullable=0 is_null=0 */
+# at 358672109
+
+
+#200712 20:40:39 server id 1  end_log_pos 1020676603 CRC32 0x7c3c3dc6 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2488203 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=92799 /* INT meta=0 nullable=0 is_null=0 */
+###   @3=NULL /* VARSTRING(192) meta=192 nullable=1 is_null=1 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-12 19:28:04' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='11:01:44' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:12' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2488203 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=92799 /* INT meta=0 nullable=0 is_null=0 */
+###   @3=NULL /* VARSTRING(192) meta=192 nullable=1 is_null=1 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-12 20:40:39' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='12:14:19' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:12' /* DATE meta=0 nullable=0 is_null=0 */
+# at 1020676603
+
+
+
+
+#200718 16:21:53 server id 1  end_log_pos 82217410 CRC32 0x3440a485     Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2536057 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-18 15:34:07' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060508' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:36:14' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:18' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2536057 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-18 16:21:53' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:24:00' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:18' /* DATE meta=0 nullable=0 is_null=0 */
+
+#200719 16:05:14 server id 1  end_log_pos 100191870 CRC32 0x3f83809e    Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2536691 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-19 12:00:01' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:33:59' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:19' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2536691 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-19 16:05:14' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:39:12' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:19' /* DATE meta=0 nullable=0 is_null=0 */
+
+
+
+#200725 13:08:55 server id 1  end_log_pos 229854701 CRC32 0x99008a5c 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2584595 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10953 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900345' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-25 12:36:09' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:51:14' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:25' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2584595 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10953 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900345' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-25 13:08:55' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060292' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='04:24:00' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:25' /* DATE meta=0 nullable=0 is_null=0 */
+
+
+
+#200726 18:58:00 server id 1  end_log_pos 252692907 CRC32 0x439639fd 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2585225 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-26 12:18:01' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='04:06:34' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:26' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2585225 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-26 18:58:00' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='10:46:33' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:26' /* DATE meta=0 nullable=0 is_null=0 */
+# at 252692907
+#200726 18:58:00 server id 1  end_log_pos 252692993 CRC32 0x7cbd1db2 	Table_map: `alock_checkin_db`.`t_raw_checkin_record` mapped to number 797
+--
+#200726 20:33:20 server id 1  end_log_pos 253867851 CRC32 0x322c1480 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2585225 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-26 18:58:00' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='10:46:33' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:26' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2585225 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-07-26 20:33:20' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='12:21:53' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:07:26' /* DATE meta=0 nullable=0 is_null=0 */
+# at 253867851
+#200726 20:33:20 server id 1  end_log_pos 253867937 CRC32 0x6e6cafa7 	Table_map: `alock_checkin_db`.`t_raw_checkin_record` mapped to number 797
+--
+#200801 17:36:07 server id 1  end_log_pos 391872639 CRC32 0x48f17654 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2633165 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-01 17:03:38' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:38:55' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:01' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2633165 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-01 17:36:07' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:11:24' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:01' /* DATE meta=0 nullable=0 is_null=0 */
+# at 391872639
+
+
+
+#200802 21:09:17 server id 1  end_log_pos 412607341 CRC32 0xec2cdc05 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2633799 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10665 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901207' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-02 17:58:19' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='05:59:39' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:02' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2633799 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10665 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901207' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-02 21:09:17' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:10:37' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:02' /* DATE meta=0 nullable=0 is_null=0 */
+
+
+#200809 21:39:29 server id 1  end_log_pos 642790673 CRC32 0x1f861492 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2682269 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10665 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901207' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-09 16:32:53' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='05:55:56' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:09' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2682269 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10665 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03901207' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-09 21:39:29' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='11:02:32' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:09' /* DATE meta=0 nullable=0 is_null=0 */
+# at 642790673
+
+
+
+#200822 15:59:34 server id 1  end_log_pos 1041603130 CRC32 0x8ead20c8 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2778521 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69957 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902257' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-22 13:28:03' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:08:28' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:22' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2778521 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69957 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902257' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-22 15:59:33' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='04:39:58' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:22' /* DATE meta=0 nullable=0 is_null=0 */
+# at 1041603130
+
+
+--
+#200822 17:20:02 server id 1  end_log_pos 1042604563 CRC32 0x789e1145 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2778521 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69957 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902257' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-22 15:59:33' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='04:39:58' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:22' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2778521 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69957 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902257' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-22 17:20:02' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:00:27' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:22' /* DATE meta=0 nullable=0 is_null=0 */
+# at 1042604563
+
+--
+#200823 16:43:10 server id 1  end_log_pos 1060697425 CRC32 0x6986ffdc 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=2779147 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3=NULL /* VARSTRING(192) meta=192 nullable=1 is_null=1 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-23 11:46:56' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:05:12' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:23' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=2779147 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3=NULL /* VARSTRING(192) meta=192 nullable=1 is_null=1 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-08-23 16:43:09' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:01:25' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:08:23' /* DATE meta=0 nullable=0 is_null=0 */
+# at 1060697425
+
+
+#200926 17:12:11 server id 1  end_log_pos 656843715 CRC32 0x8d9bfbf8 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3022395 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85557 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903384' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-09-26 11:58:14' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='01:43:03' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:09:26' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3022395 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85557 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903384' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-09-26 17:12:11' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='06:57:00' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:09:26' /* DATE meta=0 nullable=0 is_null=0 */
+# at 656843715
+--
+#201024 21:53:08 server id 1  end_log_pos 708331646 CRC32 0x1d25b1e3 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3165023 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85229 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903368' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-10-24 17:30:43' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:24:51' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:10:24' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3165023 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=85229 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903368' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-10-24 21:53:08' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='11:47:16' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:10:24' /* DATE meta=0 nullable=0 is_null=0 */
+# at 708331646
+
+
+
+#201108 17:37:15 server id 1  end_log_pos 738571435 CRC32 0x59e70172 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3263313 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=94721 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03904002' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-08 12:25:12' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='03:52:16' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:08' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3263313 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=94721 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03904002' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-08 17:37:15' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:04:19' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:08' /* DATE meta=0 nullable=0 is_null=0 */
+# at 738571435
+
+
+
+#201115 18:54:02 server id 1  end_log_pos 753080383 CRC32 0x857ca619 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3312191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903788' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-15 12:12:38' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:02:59' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:15' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3312191 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903788' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-15 18:54:02' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:44:23' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:15' /* DATE meta=0 nullable=0 is_null=0 */
+# at 753080383
+--
+
+
+#201128 20:12:29 server id 1  end_log_pos 784814049 CRC32 0xa2141d56 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3409585 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-28 19:54:37' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:00:04' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:28' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3409585 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=69981 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03902352' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-11-28 20:12:29' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='08:17:56' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:11:28' /* DATE meta=0 nullable=0 is_null=0 */
+# at 784814049
+--
+
+#201212 18:07:31 server id 1  end_log_pos 819937432 CRC32 0x48697d8f 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3507659 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-12 17:37:17' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:24:05' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:12' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3507659 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-12 18:07:31' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:54:19' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:12' /* DATE meta=0 nullable=0 is_null=0 */
+# at 819937432
+--
+
+
+#201212 21:31:46 server id 1  end_log_pos 819982367 CRC32 0x643aee65 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3507659 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-12 18:07:31' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='09:54:19' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:12' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3507659 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10755 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900475' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-12 21:31:46' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060502' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='13:18:34' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:12' /* DATE meta=0 nullable=0 is_null=0 */
+# at 819982367
+--
+
+
+#201219 16:12:48 server id 1  end_log_pos 835115098 CRC32 0x2c0f7c1b 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3556721 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90173 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903774' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-19 14:17:19' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='05:25:03' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:19' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3556721 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90173 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903774' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-19 16:12:47' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='07:20:31' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:19' /* DATE meta=0 nullable=0 is_null=0 */
+# at 835115098
+--
+
+
+#201220 22:13:05 server id 1  end_log_pos 835604399 CRC32 0x1272d09b 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3557415 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903788' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-20 12:04:47' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060501' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:17:45' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:20' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3557415 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=90273 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03903788' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2020-12-20 22:13:04' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060500' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='12:26:02' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2020:12:20' /* DATE meta=0 nullable=0 is_null=0 */
+# at 835604399
+--
+
+
+#210103 21:48:09 server id 1  end_log_pos 875117127 CRC32 0x0adeb8fe 	Update_rows: table id 785 flags: STMT_END_F
+### UPDATE `alock_checkin_db`.`t_checkin_record`
+### WHERE
+###   @1=3645793 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10891 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900917' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2021-01-03 12:50:21' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060508' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='02:32:21' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2021:01:03' /* DATE meta=0 nullable=0 is_null=0 */
+### SET
+###   @1=3645793 /* INT meta=0 nullable=0 is_null=0 */
+###   @2=10891 /* INT meta=0 nullable=0 is_null=0 */
+###   @3='03900917' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @4=91 /* INT meta=0 nullable=1 is_null=0 */
+###   @5='2021-01-03 21:48:09' /* DATETIME(0) meta=0 nullable=0 is_null=0 */
+###   @6=102 /* INT meta=0 nullable=0 is_null=0 */
+###   @7=1 /* INT meta=0 nullable=1 is_null=0 */
+###   @8=NULL /* INT meta=0 nullable=1 is_null=1 */
+###   @9='2100060508' /* VARSTRING(192) meta=192 nullable=1 is_null=0 */
+###   @10='11:30:09' /* TIME(0) meta=0 nullable=1 is_null=0 */
+###   @11=2 /* INT meta=0 nullable=1 is_null=0 */
+###   @12=NULL /* VARSTRING(135) meta=135 nullable=1 is_null=1 */
+###   @13='2021:01:03' /* DATE meta=0 nullable=0 is_null=0 */
+# at 875117127
+
+
+
