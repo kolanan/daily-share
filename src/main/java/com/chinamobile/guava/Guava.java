@@ -1,5 +1,6 @@
 package com.chinamobile.guava;
 
+import cn.hutool.core.date.DateUtil;
 import cn.hutool.crypto.asymmetric.KeyType;
 import cn.hutool.crypto.asymmetric.RSA;
 
@@ -12,7 +13,7 @@ public class Guava {
     public static int[] twoSum(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
-                if(nums[i] + nums[j] == target) {
+                if (nums[i] + nums[j] == target) {
                     return new int[]{i, j};
                 }
             }
@@ -27,7 +28,7 @@ public class Guava {
                 List<String> str1 = removeFirstBean(accounts.get(i));
                 List<String> str2 = removeFirstBean(accounts.get(j));
                 List<String> intersection = str1.stream().filter(str2::contains).collect(Collectors.toList());
-                if(intersection.size() > 0) {
+                if (intersection.size() > 0) {
 //                    List<String> union = str1.stream().filter(item -> str2.contains(item)).collect(Collectors.toList());
                     List<String> resultList = new ArrayList<>();
                     resultList.add(accounts.get(i).get(0));
@@ -55,24 +56,21 @@ public class Guava {
 
     public static void main(String[] args) {
 
-        String PRIVATE_KEY = "MIICdQIBADANBgkqhkiG9w0BAQEFAASCAl8wggJbAgEAAoGBAIL7pbQ+5KKGYRhw7jE31hmA"
-                + "f8Q60ybd+xZuRmuO5kOFBRqXGxKTQ9TfQI+aMW+0lw/kibKzaD/EKV91107xE384qOy6IcuBfaR5lv39OcoqNZ"
-                + "5l+Dah5ABGnVkBP9fKOFhPgghBknTRo0/rZFGI6Q1UHXb+4atP++LNFlDymJcPAgMBAAECgYBammGb1alndta"
-                + "xBmTtLLdveoBmp14p04D8mhkiC33iFKBcLUvvxGg2Vpuc+cbagyu/NZG+R/WDrlgEDUp6861M5BeFN0L9O4hz"
-                + "GAEn8xyTE96f8sh4VlRmBOvVdwZqRO+ilkOM96+KL88A9RKdp8V2tna7TM6oI3LHDyf/JBoXaQJBAMcVN7fKlYP"
-                + "Skzfh/yZzW2fmC0ZNg/qaW8Oa/wfDxlWjgnS0p/EKWZ8BxjR/d199L3i/KMaGdfpaWbYZLvYENqUCQQCobjsuCW"
-                + "nlZhcWajjzpsSuy8/bICVEpUax1fUZ58Mq69CQXfaZemD9Ar4omzuEAAs2/uee3kt3AvCBaeq05NyjAkBme8SwB0iK"
-                + "kLcaeGuJlq7CQIkjSrobIqUEf+CzVZPe+AorG+isS+Cw2w/2bHu+G0p5xSYvdH59P0+ZT0N+f9LFAkA6v3Ae56OrI"
-                + "wfMhrJksfeKbIaMjNLS9b8JynIaXg9iCiyOHmgkMl5gAbPoH/ULXqSKwzBw5mJ2GW1gBlyaSfV3AkA/RJC+adIjsRGg"
-                + "JOkiRjSmPpGv3FOhl9fsBPjupZBEIuoMWOC8GXK/73DHxwmfNmN7C9+sIi4RBcjEeQ5F5FHZ";
+        String PRIVATE_KEY = "MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBALC9aTBXmu8AIsD4dQBHXcc0P34aAdixLZGUDBP/5Z6/y73cTw0TQ6IdjM8MwabCsR7AKJFGzh6ZdqsIsIIb0f/lPLEit9VTpQhztnBBEM38GH0XU7m5NES8qHyMk+TPw1eg2e6Xfo1XiJ+RICAZlJw80LoLi8CpR/Wi1zzIBHBFAgMBAAECgYBwoFM+1iTKNvjupaXRhqjw/4+SaTpR/x49ze0gdYq67hgEpjbN6z/HODN54fQps5mxMdzoLwm8oCjp9wCb+OSJriXlTxrPmWLEOQGIIejzcYJFL8r7ZD2524fdrCT3kh/sh1OPAsYDDjzutO7VHiiuHeGAwNrbOC9prkXcv87dIQJBAPfCYfEVDTwnS77VhNUjRhz1QW4ltHwbDztls34aSvNvn9CZBXB7Tarxs3h7J6p0odM4UYWPKF0B6oe6i0X1i/0CQQC2nlArJMXGAuEgEPbgIvl8NDbsD7BerUyFVsLgq0RBzaR1yGu4yTZqpquMzSUgcAN+UpeADJ4p95tfkqMkSVPpAkEA8QLeU66u2T1Aqbr7JHrT0YeixotXLwMDpjwghyL8liKXzEuOxwSrYQcOFr12sJIUeWvnoYzJLvCWPMJyiPN74QJAEAZudIrCjDC+fqjecSbAi+StGSP7TyOX/m9xpHODBt872lYfFdUaYFuF3FI4OtN5iwFGaCczTe17hfSBOnLw2QJALOm4PySrLfMjC0b5Y+Y7jTRj5KENGkSCmpvrw4KROrFS6x0p1mYU4FKMxjyfb9LohblTLhJot4yw1uGW5QKQeA==";
 
-        String publicKey  = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwvWkwV5rvACLA+HUAR13HND9+GgHYsS2RlAwT/+Wev8u93E8NE0OiHYzPDMGmwrEewCiRRs4emXarCLCCG9H/5TyxIrfVU6UIc7ZwQRDN/Bh9F1O5uTREvKh8jJPkz8NXoNnul36NV4ifkSAgGZScPNC6C4vAqUf1otc8yARwRQIDAQAB";
+        String publicKey = "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCwvWkwV5rvACLA+HUAR13HND9+GgHYsS2RlAwT/+Wev8u93E8NE0OiHYzPDMGmwrEewCiRRs4emXarCLCCG9H/5TyxIrfVU6UIc7ZwQRDN/Bh9F1O5uTREvKh8jJPkz8NXoNnul36NV4ifkSAgGZScPNC6C4vAqUf1otc8yARwRQIDAQAB";
 
 
-        RSA rsa = new RSA(PRIVATE_KEY, publicKey);
-        String s  = rsa.encryptBase64("123456".getBytes(), KeyType.PublicKey);
-        String str = rsa.decryptStr(s, KeyType.PrivateKey);
-        System.out.println(str);
+        RSA rsa = new RSA(null, publicKey);
+        String s = rsa.encryptBase64("123456a.".getBytes(), KeyType.PublicKey);
+//        try {
+//            System.out.println(rsa.decryptStr("TvY69DCAF5NYDEWUGxUW5RW9SNpVW2l+8ekxOuTOCdkEAErzTTX+fc/L1PxvFqZ6aqieg+bwfEHJYkWGcQ5uahwWqQMs3fdwFOG91uF5mC34VwiiaP5MDqs028+JwVpaPh3PPMddTIrOuW7PyRmTWORU3L3LmQqa4bQWFi/lQp8=", KeyType.PrivateKey));
+//        } catch (CryptoException e) {
+//            System.out.println(e.getMessage());
+//        }
+        System.out.println(s);
+
+        System.out.println(DateUtil.today());
     }
 
 

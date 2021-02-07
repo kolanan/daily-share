@@ -28,8 +28,8 @@ public class FileTest3 {
         LineIterator lineIterator = FileUtils.lineIterator(new File("D://t_checkin_record-12.txt"), "utf-8");
         while (lineIterator.hasNext()) {
 
-            if(k != 0 && k % 2000000 == 0) {
-                BigExcelWriter writer= ExcelUtil.getBigWriter("d:/insert_" + k +".xlsx");
+            if (k != 0 && k % 2000000 == 0) {
+                BigExcelWriter writer = ExcelUtil.getBigWriter("d:/insert_" + k + ".xlsx");
                 writer.write(result);
                 writer.close();
                 result = new ArrayList<>();
@@ -49,7 +49,7 @@ public class FileTest3 {
             }
             System.out.println(k);
         }
-        BigExcelWriter writer= ExcelUtil.getBigWriter("d:/insert_" + k +".xlsx");
+        BigExcelWriter writer = ExcelUtil.getBigWriter("d:/insert_" + k + ".xlsx");
         writer.write(result);
         writer.close();
 

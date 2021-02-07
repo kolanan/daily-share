@@ -38,7 +38,7 @@ public class FileTest {
             }
             System.out.println(k);
         }
-        BigExcelWriter writer= ExcelUtil.getBigWriter("d:/xxx.xlsx");
+        BigExcelWriter writer = ExcelUtil.getBigWriter("d:/xxx.xlsx");
 
 // 一次性写出内容，使用默认样式
         writer.write(result);

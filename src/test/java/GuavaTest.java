@@ -7,7 +7,6 @@ import java.util.List;
 public class GuavaTest {
 
 
-
     @Test
     public void test3() {
         List s = Lists.newArrayList(4, 2, 3);

@@ -69,8 +69,8 @@ public class FileTest4 {
                 }
 
                 if (k != 0 && k % 13 == 0) {
-                    if(!isTime) {
-                        list.add(0,DateUtil.parse("20" + localdate, "yyyyMMdd HH:mm:ss").toString());
+                    if (!isTime) {
+                        list.add(0, DateUtil.parse("20" + localdate, "yyyyMMdd HH:mm:ss").toString());
                     }
                     List<String> strings1 = ObjectUtil.cloneByStream(list);
                     if (!flag) {
